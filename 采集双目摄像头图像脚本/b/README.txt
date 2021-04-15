@@ -1,0 +1,1 @@
+Camera image storage folder b

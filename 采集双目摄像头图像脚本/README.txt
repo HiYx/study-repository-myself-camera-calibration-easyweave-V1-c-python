@@ -1,0 +1,1 @@
+Start the script to collect binocular camera data, and set the image size to 640x480 
